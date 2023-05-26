@@ -1,0 +1,12 @@
+#folder
+__pycache__
+image
+UI
+#files
+rough.py
+notebook.ipynb
+__*.py
+__*.txt
+__*.ipynb
+.vscode
+GUI_test.py
